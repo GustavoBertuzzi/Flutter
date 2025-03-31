@@ -1,0 +1,24 @@
+# Flutter
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/key.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/ios/**
+**/linux/**
+**/macos/**
+**/windows/**
+**/build/
+**/.dart_tool/
+**/.packages
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.metadata
+**/pubspec.lock
+**/ios/Podfile.lock
+.DS_Store
+*.swp
+*.swo
